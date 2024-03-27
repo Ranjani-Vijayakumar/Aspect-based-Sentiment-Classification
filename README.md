@@ -1,4 +1,4 @@
-![image](https://github.com/Ranjani-Vijayakumar/Aspect-based-Sentiment-Classification/assets/86062231/645bdc1d-b490-4162-8e96-daa717cd8eae)# Aspect-based-Sentiment-Classification
+# Aspect-based-Sentiment-Classification
  Naive Bayes and Artificial Bee Colony Algorithm
 
 Customer reviews provide valuable insights into customer opinions and
