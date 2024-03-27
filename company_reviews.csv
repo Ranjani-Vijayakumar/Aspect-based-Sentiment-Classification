@@ -1,0 +1,1001 @@
+id,review,aspect
+1,The customer service is an excellent value for the price. I would buy it again.,customer service
+2,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+3,I am extremely happy with the price. It has been a great investment.,price
+4,I am very impressed with the customer service. It is a great product at a great price.,customer service
+5,The shipping is overpriced for the quality. I would not buy it again.,shipping
+6,I am very disappointed with the product. The product did not meet my expectations.,product
+7,I would give the product one star. It was a terrible product.,product
+8,I am very impressed with the shipping. It is a great product at a great price.,shipping
+9,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+10,The customer service is overpriced for the quality. I would not buy it again.,customer service
+11,The shipping is very easy to use and has made my life much easier.,shipping
+12,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+13,The customer service is of poor quality. I would not recommend it.,customer service
+14,I am extremely unhappy with the price. It was a waste of money.,price
+15,I am extremely happy with the shipping. It has been a great investment.,shipping
+16,I would give the shipping one star. It was a terrible product.,shipping
+17,The product is of poor quality. I would not recommend it.,product
+18,I am extremely happy with the product. It has been a great investment.,product
+19,I would give the customer service one star. It was a terrible product.,customer service
+20,I am impressed with the shipping. It has exceeded my expectations.,shipping
+21,The customer service is of very high quality. I would definitely recommend it.,customer service
+22,I had a terrible experience with the price. The price did not work as advertised.,price
+23,The customer service is an excellent value for the price. I would buy it again.,customer service
+24,The shipping is overpriced for the quality. I would not buy it again.,shipping
+25,The customer service is overpriced for the quality. I would not buy it again.,customer service
+26,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+27,I am very impressed with the product. It is a great product at a great price.,product
+28,I am very disappointed with the customer service. The customer service did not meet my expectations.,customer service
+29,The product has exceeded my expectations. I would recommend it to anyone.,product
+30,The product did not live up to my expectations. I would not recommend it to anyone.,product
+31,I am impressed with the customer service. It has exceeded my expectations.,customer service
+32,The product is of poor quality. I would not recommend it.,product
+33,The product is overpriced for the quality. I would not buy it again.,product
+34,The customer service is an excellent value for the price. I would buy it again.,customer service
+35,The product is very easy to use and has made my life much easier.,product
+36,The shipping is of very high quality. I would definitely recommend it.,shipping
+37,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+38,The customer service is very easy to use and has made my life much easier.,customer service
+39,The customer service is of poor quality. I would not recommend it.,customer service
+40,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+41,The price is everything I wanted and more. I am very satisfied with my purchase.,price
+42,The product is very easy to use and has made my life much easier.,product
+43,I am impressed with the customer service. It has exceeded my expectations.,customer service
+44,I am extremely happy with the shipping. It has been a great investment.,shipping
+45,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+46,The price is not what I was looking for. I am very disappointed with my purchase.,price
+47,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+48,The product is not what I was looking for. I am very disappointed with my purchase.,product
+49,I am very unimpressed with the customer service. It is not worth the price.,customer service
+50,I am very satisfied with the price. The price is exactly what I was looking for.,price
+51,The customer service is overpriced for the quality. I would not buy it again.,customer service
+52,I had a terrible experience with the price. The price did not work as advertised.,price
+53,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+54,I am impressed with the product. It has exceeded my expectations.,product
+55,The shipping is of poor quality. I would not recommend it.,shipping
+56,I am very unimpressed with the price. It is not worth the price.,price
+57,The price is everything I wanted and more. I am very satisfied with my purchase.,price
+58,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+59,I had a terrible experience with the price. The price did not work as advertised.,price
+60,I am very impressed with the product. It is a great product at a great price.,product
+61,I am very unimpressed with the customer service. It is not worth the price.,customer service
+62,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+63,I am extremely unhappy with the price. It was a waste of money.,price
+64,The shipping is an excellent value for the price. I would buy it again.,shipping
+65,I would give the price five stars. It has been a pleasure to use.,price
+66,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+67,I am very impressed with the customer service. It is a great product at a great price.,customer service
+68,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+69,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+70,I am very unimpressed with the price. It is not worth the price.,price
+71,The shipping is an excellent value for the price. I would buy it again.,shipping
+72,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+73,The shipping is not what I was looking for. I am very disappointed with my purchase.,shipping
+74,The product is very difficult to use and has caused me a lot of frustration.,product
+75,I am impressed with the price. It has exceeded my expectations.,price
+76,I am very satisfied with the price. The price is exactly what I was looking for.,price
+77,I am extremely happy with the shipping. It has been a great investment.,shipping
+78,I would give the customer service one star. It was a terrible product.,customer service
+79,The price is overpriced for the quality. I would not buy it again.,price
+80,I would give the customer service one star. It was a terrible product.,customer service
+81,The customer service is very easy to use and has made my life much easier.,customer service
+82,I am very unimpressed with the shipping. It is not worth the price.,shipping
+83,The customer service is an excellent value for the price. I would buy it again.,customer service
+84,I am very impressed with the shipping. It is a great product at a great price.,shipping
+85,I am impressed with the customer service. It has exceeded my expectations.,customer service
+86,I am extremely happy with the customer service. It has been a great investment.,customer service
+87,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+88,The product is very difficult to use and has caused me a lot of frustration.,product
+89,The product is of very high quality. I would definitely recommend it.,product
+90,The price is very easy to use and has made my life much easier.,price
+91,I am very satisfied with the product. The product is exactly what I was looking for.,product
+92,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+93,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+94,I would give the customer service five stars. It has been a pleasure to use.,customer service
+95,I am impressed with the customer service. It has exceeded my expectations.,customer service
+96,The price is an excellent value for the price. I would buy it again.,price
+97,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+98,I am very impressed with the shipping. It is a great product at a great price.,shipping
+99,The product did not live up to my expectations. I would not recommend it to anyone.,product
+100,The price did not live up to my expectations. I would not recommend it to anyone.,price
+101,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+102,The product is overpriced for the quality. I would not buy it again.,product
+103,The customer service is of very high quality. I would definitely recommend it.,customer service
+104,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+105,The customer service is of very high quality. I would definitely recommend it.,customer service
+106,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+107,The price is of very high quality. I would definitely recommend it.,price
+108,I am extremely happy with the product. It has been a great investment.,product
+109,I am impressed with the customer service. It has exceeded my expectations.,customer service
+110,I am very disappointed with the product. The product did not meet my expectations.,product
+111,The product is of poor quality. I would not recommend it.,product
+112,I am very impressed with the price. It is a great product at a great price.,price
+113,The price is of very high quality. I would definitely recommend it.,price
+114,I am very impressed with the shipping. It is a great product at a great price.,shipping
+115,I would give the customer service five stars. It has been a pleasure to use.,customer service
+116,The product is an excellent value for the price. I would buy it again.,product
+117,I am extremely unhappy with the product. It was a waste of money.,product
+118,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+119,I am impressed with the customer service. It has exceeded my expectations.,customer service
+120,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+121,The price has exceeded my expectations. I would recommend it to anyone.,price
+122,The price is of poor quality. I would not recommend it.,price
+123,I am very impressed with the product. It is a great product at a great price.,product
+124,I am very unimpressed with the shipping. It is not worth the price.,shipping
+125,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+126,The product is an excellent value for the price. I would buy it again.,product
+127,I would give the product one star. It was a terrible product.,product
+128,The shipping is of very high quality. I would definitely recommend it.,shipping
+129,The product is an excellent value for the price. I would buy it again.,product
+130,I am very impressed with the shipping. It is a great product at a great price.,shipping
+131,I would give the customer service one star. It was a terrible product.,customer service
+132,The product is of poor quality. I would not recommend it.,product
+133,I am very impressed with the product. It is a great product at a great price.,product
+134,The price is not what I was looking for. I am very disappointed with my purchase.,price
+135,I would give the product one star. It was a terrible product.,product
+136,The customer service is an excellent value for the price. I would buy it again.,customer service
+137,The product is overpriced for the quality. I would not buy it again.,product
+138,The product did not live up to my expectations. I would not recommend it to anyone.,product
+139,I am impressed with the price. It has exceeded my expectations.,price
+140,The price is of poor quality. I would not recommend it.,price
+141,I am very unimpressed with the customer service. It is not worth the price.,customer service
+142,I am extremely happy with the customer service. It has been a great investment.,customer service
+143,I had a terrible experience with the product. The product did not work as advertised.,product
+144,I am very unimpressed with the shipping. It is not worth the price.,shipping
+145,The product is of very high quality. I would definitely recommend it.,product
+146,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+147,The product has exceeded my expectations. I would recommend it to anyone.,product
+148,I am extremely unhappy with the product. It was a waste of money.,product
+149,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+150,The shipping is not what I was looking for. I am very disappointed with my purchase.,shipping
+151,I am extremely unhappy with the customer service. It was a waste of money.,customer service
+152,I am very impressed with the price. It is a great product at a great price.,price
+153,The shipping is an excellent value for the price. I would buy it again.,shipping
+154,I would give the customer service five stars. It has been a pleasure to use.,customer service
+155,I am very unimpressed with the shipping. It is not worth the price.,shipping
+156,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+157,The price is not what I was looking for. I am very disappointed with my purchase.,price
+158,The product has exceeded my expectations. I would recommend it to anyone.,product
+159,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+160,I would give the customer service five stars. It has been a pleasure to use.,customer service
+161,The product is not what I was looking for. I am very disappointed with my purchase.,product
+162,I am very impressed with the customer service. It is a great product at a great price.,customer service
+163,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+164,I am very satisfied with the product. The product is exactly what I was looking for.,product
+165,I am extremely happy with the customer service. It has been a great investment.,customer service
+166,I am very unimpressed with the shipping. It is not worth the price.,shipping
+167,I had a terrible experience with the product. The product did not work as advertised.,product
+168,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+169,I am extremely happy with the customer service. It has been a great investment.,customer service
+170,I am extremely unhappy with the product. It was a waste of money.,product
+171,I would give the shipping five stars. It has been a pleasure to use.,shipping
+172,I would give the shipping one star. It was a terrible product.,shipping
+173,I would give the shipping one star. It was a terrible product.,shipping
+174,The product is of poor quality. I would not recommend it.,product
+175,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+176,I am very disappointed with the price. The price did not meet my expectations.,price
+177,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+178,The customer service is overpriced for the quality. I would not buy it again.,customer service
+179,The customer service is an excellent value for the price. I would buy it again.,customer service
+180,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+181,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+182,I would give the price five stars. It has been a pleasure to use.,price
+183,The product is an excellent value for the price. I would buy it again.,product
+184,I would give the product five stars. It has been a pleasure to use.,product
+185,The product is of poor quality. I would not recommend it.,product
+186,I am very satisfied with the product. The product is exactly what I was looking for.,product
+187,I would give the price five stars. It has been a pleasure to use.,price
+188,I would give the price one star. It was a terrible product.,price
+189,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+190,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+191,I had a terrible experience with the product. The product did not work as advertised.,product
+192,I would give the price one star. It was a terrible product.,price
+193,I had a terrible experience with the product. The product did not work as advertised.,product
+194,The shipping is of poor quality. I would not recommend it.,shipping
+195,The product is not what I was looking for. I am very disappointed with my purchase.,product
+196,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+197,I am very disappointed with the product. The product did not meet my expectations.,product
+198,The price is not what I was looking for. I am very disappointed with my purchase.,price
+199,I would give the price one star. It was a terrible product.,price
+200,The product is very difficult to use and has caused me a lot of frustration.,product
+201,The product is of poor quality. I would not recommend it.,product
+202,I am extremely happy with the customer service. It has been a great investment.,customer service
+203,I am impressed with the shipping. It has exceeded my expectations.,shipping
+204,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+205,I am very unimpressed with the customer service. It is not worth the price.,customer service
+206,The shipping is an excellent value for the price. I would buy it again.,shipping
+207,The price is very difficult to use and has caused me a lot of frustration.,price
+208,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+209,The price is everything I wanted and more. I am very satisfied with my purchase.,price
+210,I am impressed with the customer service. It has exceeded my expectations.,customer service
+211,I would give the shipping one star. It was a terrible product.,shipping
+212,The customer service is overpriced for the quality. I would not buy it again.,customer service
+213,I would give the shipping five stars. It has been a pleasure to use.,shipping
+214,The price is an excellent value for the price. I would buy it again.,price
+215,The shipping is overpriced for the quality. I would not buy it again.,shipping
+216,I am very unimpressed with the customer service. It is not worth the price.,customer service
+217,The price is everything I wanted and more. I am very satisfied with my purchase.,price
+218,I would give the price one star. It was a terrible product.,price
+219,The shipping is an excellent value for the price. I would buy it again.,shipping
+220,The shipping is an excellent value for the price. I would buy it again.,shipping
+221,I am impressed with the customer service. It has exceeded my expectations.,customer service
+222,The customer service is of very high quality. I would definitely recommend it.,customer service
+223,I am impressed with the product. It has exceeded my expectations.,product
+224,I had a terrible experience with the price. The price did not work as advertised.,price
+225,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+226,The product is of poor quality. I would not recommend it.,product
+227,The product is not what I was looking for. I am very disappointed with my purchase.,product
+228,I am very unimpressed with the price. It is not worth the price.,price
+229,The shipping is of very high quality. I would definitely recommend it.,shipping
+230,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+231,The price is very difficult to use and has caused me a lot of frustration.,price
+232,I am very disappointed with the price. The price did not meet my expectations.,price
+233,I would give the shipping one star. It was a terrible product.,shipping
+234,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+235,I am impressed with the shipping. It has exceeded my expectations.,shipping
+236,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+237,The product has exceeded my expectations. I would recommend it to anyone.,product
+238,The shipping is of poor quality. I would not recommend it.,shipping
+239,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+240,The customer service is of poor quality. I would not recommend it.,customer service
+241,I am very disappointed with the product. The product did not meet my expectations.,product
+242,The shipping is overpriced for the quality. I would not buy it again.,shipping
+243,I am very impressed with the price. It is a great product at a great price.,price
+244,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+245,I am extremely unhappy with the product. It was a waste of money.,product
+246,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+247,The price is an excellent value for the price. I would buy it again.,price
+248,The product has exceeded my expectations. I would recommend it to anyone.,product
+249,The price is everything I wanted and more. I am very satisfied with my purchase.,price
+250,I am very impressed with the product. It is a great product at a great price.,product
+251,I am extremely happy with the product. It has been a great investment.,product
+252,I am impressed with the shipping. It has exceeded my expectations.,shipping
+253,I am impressed with the price. It has exceeded my expectations.,price
+254,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+255,The shipping is of very high quality. I would definitely recommend it.,shipping
+256,I would give the product one star. It was a terrible product.,product
+257,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+258,I am very disappointed with the customer service. The customer service did not meet my expectations.,customer service
+259,The price is very easy to use and has made my life much easier.,price
+260,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+261,I am extremely unhappy with the customer service. It was a waste of money.,customer service
+262,The shipping is of very high quality. I would definitely recommend it.,shipping
+263,I am extremely happy with the price. It has been a great investment.,price
+264,The customer service is an excellent value for the price. I would buy it again.,customer service
+265,I would give the price five stars. It has been a pleasure to use.,price
+266,The product is very difficult to use and has caused me a lot of frustration.,product
+267,The product has exceeded my expectations. I would recommend it to anyone.,product
+268,The customer service is of very high quality. I would definitely recommend it.,customer service
+269,The customer service is of poor quality. I would not recommend it.,customer service
+270,I would give the price one star. It was a terrible product.,price
+271,I would give the price five stars. It has been a pleasure to use.,price
+272,The product is of poor quality. I would not recommend it.,product
+273,The price has exceeded my expectations. I would recommend it to anyone.,price
+274,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+275,I am very impressed with the shipping. It is a great product at a great price.,shipping
+276,The shipping is not what I was looking for. I am very disappointed with my purchase.,shipping
+277,I am very satisfied with the product. The product is exactly what I was looking for.,product
+278,I am extremely happy with the price. It has been a great investment.,price
+279,I would give the price one star. It was a terrible product.,price
+280,The shipping is of very high quality. I would definitely recommend it.,shipping
+281,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+282,I am extremely happy with the product. It has been a great investment.,product
+283,I am very unimpressed with the price. It is not worth the price.,price
+284,The price is everything I wanted and more. I am very satisfied with my purchase.,price
+285,I am very satisfied with the price. The price is exactly what I was looking for.,price
+286,I am extremely unhappy with the price. It was a waste of money.,price
+287,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+288,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+289,I am very disappointed with the price. The price did not meet my expectations.,price
+290,I am very satisfied with the product. The product is exactly what I was looking for.,product
+291,The product is an excellent value for the price. I would buy it again.,product
+292,I am impressed with the product. It has exceeded my expectations.,product
+293,I would give the product one star. It was a terrible product.,product
+294,I am very unimpressed with the shipping. It is not worth the price.,shipping
+295,I am extremely happy with the customer service. It has been a great investment.,customer service
+296,I would give the product five stars. It has been a pleasure to use.,product
+297,I am very impressed with the price. It is a great product at a great price.,price
+298,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+299,The product is overpriced for the quality. I would not buy it again.,product
+300,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+301,I am very impressed with the price. It is a great product at a great price.,price
+302,The customer service is overpriced for the quality. I would not buy it again.,customer service
+303,The price is of poor quality. I would not recommend it.,price
+304,I am very impressed with the product. It is a great product at a great price.,product
+305,I am extremely unhappy with the product. It was a waste of money.,product
+306,I am impressed with the price. It has exceeded my expectations.,price
+307,I am very impressed with the customer service. It is a great product at a great price.,customer service
+308,The price is very easy to use and has made my life much easier.,price
+309,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+310,The product is of very high quality. I would definitely recommend it.,product
+311,The shipping is very easy to use and has made my life much easier.,shipping
+312,I would give the shipping five stars. It has been a pleasure to use.,shipping
+313,I am very satisfied with the product. The product is exactly what I was looking for.,product
+314,I would give the customer service five stars. It has been a pleasure to use.,customer service
+315,I am very unimpressed with the product. It is not worth the price.,product
+316,The shipping is of poor quality. I would not recommend it.,shipping
+317,The price is not what I was looking for. I am very disappointed with my purchase.,price
+318,The shipping is of very high quality. I would definitely recommend it.,shipping
+319,The product is very easy to use and has made my life much easier.,product
+320,The price is an excellent value for the price. I would buy it again.,price
+321,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+322,The product is overpriced for the quality. I would not buy it again.,product
+323,The price is of very high quality. I would definitely recommend it.,price
+324,The customer service is very easy to use and has made my life much easier.,customer service
+325,I am extremely unhappy with the product. It was a waste of money.,product
+326,I am extremely happy with the price. It has been a great investment.,price
+327,The price is of very high quality. I would definitely recommend it.,price
+328,I am very disappointed with the price. The price did not meet my expectations.,price
+329,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+330,The customer service is very difficult to use and has caused me a lot of frustration.,customer service
+331,I am very disappointed with the product. The product did not meet my expectations.,product
+332,The price is not what I was looking for. I am very disappointed with my purchase.,price
+333,The price is overpriced for the quality. I would not buy it again.,price
+334,The price has exceeded my expectations. I would recommend it to anyone.,price
+335,I am very unimpressed with the shipping. It is not worth the price.,shipping
+336,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+337,The customer service is very difficult to use and has caused me a lot of frustration.,customer service
+338,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+339,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+340,The product is of poor quality. I would not recommend it.,product
+341,I would give the customer service five stars. It has been a pleasure to use.,customer service
+342,I had a terrible experience with the product. The product did not work as advertised.,product
+343,I am extremely unhappy with the price. It was a waste of money.,price
+344,I am very unimpressed with the price. It is not worth the price.,price
+345,The shipping is an excellent value for the price. I would buy it again.,shipping
+346,The shipping is of very high quality. I would definitely recommend it.,shipping
+347,I am very satisfied with the shipping. The shipping is exactly what I was looking for.,shipping
+348,I am impressed with the price. It has exceeded my expectations.,price
+349,The price did not live up to my expectations. I would not recommend it to anyone.,price
+350,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+351,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+352,I am very satisfied with the price. The price is exactly what I was looking for.,price
+353,The price has exceeded my expectations. I would recommend it to anyone.,price
+354,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+355,I am very impressed with the customer service. It is a great product at a great price.,customer service
+356,I am very disappointed with the price. The price did not meet my expectations.,price
+357,I am very impressed with the price. It is a great product at a great price.,price
+358,I am extremely unhappy with the customer service. It was a waste of money.,customer service
+359,I would give the customer service five stars. It has been a pleasure to use.,customer service
+360,I am very disappointed with the customer service. The customer service did not meet my expectations.,customer service
+361,I would give the product five stars. It has been a pleasure to use.,product
+362,I would give the product five stars. It has been a pleasure to use.,product
+363,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+364,The shipping is not what I was looking for. I am very disappointed with my purchase.,shipping
+365,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+366,The price is of very high quality. I would definitely recommend it.,price
+367,The product is not what I was looking for. I am very disappointed with my purchase.,product
+368,The price is of poor quality. I would not recommend it.,price
+369,I am very satisfied with the price. The price is exactly what I was looking for.,price
+370,I am very disappointed with the price. The price did not meet my expectations.,price
+371,The price is an excellent value for the price. I would buy it again.,price
+372,I would give the customer service one star. It was a terrible product.,customer service
+373,The shipping is overpriced for the quality. I would not buy it again.,shipping
+374,I would give the price one star. It was a terrible product.,price
+375,The price is not what I was looking for. I am very disappointed with my purchase.,price
+376,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+377,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+378,The customer service is of very high quality. I would definitely recommend it.,customer service
+379,I would give the price five stars. It has been a pleasure to use.,price
+380,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+381,The product did not live up to my expectations. I would not recommend it to anyone.,product
+382,I am very disappointed with the customer service. The customer service did not meet my expectations.,customer service
+383,The product is of very high quality. I would definitely recommend it.,product
+384,The price is of very high quality. I would definitely recommend it.,price
+385,The price is of very high quality. I would definitely recommend it.,price
+386,The price is not what I was looking for. I am very disappointed with my purchase.,price
+387,The price did not live up to my expectations. I would not recommend it to anyone.,price
+388,The price is not what I was looking for. I am very disappointed with my purchase.,price
+389,The product is of poor quality. I would not recommend it.,product
+390,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+391,The shipping is of poor quality. I would not recommend it.,shipping
+392,I am extremely happy with the shipping. It has been a great investment.,shipping
+393,The customer service is an excellent value for the price. I would buy it again.,customer service
+394,The price is of very high quality. I would definitely recommend it.,price
+395,I would give the customer service five stars. It has been a pleasure to use.,customer service
+396,I am extremely unhappy with the customer service. It was a waste of money.,customer service
+397,The price is overpriced for the quality. I would not buy it again.,price
+398,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+399,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+400,I am impressed with the product. It has exceeded my expectations.,product
+401,The shipping is of very high quality. I would definitely recommend it.,shipping
+402,The shipping is not what I was looking for. I am very disappointed with my purchase.,shipping
+403,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+404,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+405,I am very disappointed with the customer service. The customer service did not meet my expectations.,customer service
+406,I am very unimpressed with the product. It is not worth the price.,product
+407,I am extremely unhappy with the product. It was a waste of money.,product
+408,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+409,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+410,I had a terrible experience with the product. The product did not work as advertised.,product
+411,The price is not what I was looking for. I am very disappointed with my purchase.,price
+412,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+413,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+414,I am very satisfied with the shipping. The shipping is exactly what I was looking for.,shipping
+415,The price is very easy to use and has made my life much easier.,price
+416,I would give the shipping five stars. It has been a pleasure to use.,shipping
+417,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+418,I am very satisfied with the price. The price is exactly what I was looking for.,price
+419,The product did not live up to my expectations. I would not recommend it to anyone.,product
+420,I had a terrible experience with the product. The product did not work as advertised.,product
+421,The shipping is an excellent value for the price. I would buy it again.,shipping
+422,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+423,I am extremely happy with the price. It has been a great investment.,price
+424,The shipping is of poor quality. I would not recommend it.,shipping
+425,The customer service is very difficult to use and has caused me a lot of frustration.,customer service
+426,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+427,The price is everything I wanted and more. I am very satisfied with my purchase.,price
+428,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+429,The customer service is very easy to use and has made my life much easier.,customer service
+430,The product is not what I was looking for. I am very disappointed with my purchase.,product
+431,The product has exceeded my expectations. I would recommend it to anyone.,product
+432,The product is an excellent value for the price. I would buy it again.,product
+433,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+434,I am extremely unhappy with the product. It was a waste of money.,product
+435,I would give the customer service five stars. It has been a pleasure to use.,customer service
+436,The price did not live up to my expectations. I would not recommend it to anyone.,price
+437,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+438,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+439,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+440,The price is not what I was looking for. I am very disappointed with my purchase.,price
+441,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+442,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+443,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+444,The price did not live up to my expectations. I would not recommend it to anyone.,price
+445,The shipping is of poor quality. I would not recommend it.,shipping
+446,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+447,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+448,The product did not live up to my expectations. I would not recommend it to anyone.,product
+449,The product is an excellent value for the price. I would buy it again.,product
+450,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+451,The price is overpriced for the quality. I would not buy it again.,price
+452,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+453,The price is very difficult to use and has caused me a lot of frustration.,price
+454,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+455,I am extremely happy with the shipping. It has been a great investment.,shipping
+456,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+457,I am very disappointed with the product. The product did not meet my expectations.,product
+458,I would give the shipping five stars. It has been a pleasure to use.,shipping
+459,I would give the shipping one star. It was a terrible product.,shipping
+460,The shipping is of poor quality. I would not recommend it.,shipping
+461,The shipping is of very high quality. I would definitely recommend it.,shipping
+462,I am very impressed with the shipping. It is a great product at a great price.,shipping
+463,I am very satisfied with the product. The product is exactly what I was looking for.,product
+464,I am very satisfied with the product. The product is exactly what I was looking for.,product
+465,I am extremely happy with the price. It has been a great investment.,price
+466,The customer service is overpriced for the quality. I would not buy it again.,customer service
+467,The customer service is an excellent value for the price. I would buy it again.,customer service
+468,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+469,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+470,I am extremely happy with the product. It has been a great investment.,product
+471,The shipping is overpriced for the quality. I would not buy it again.,shipping
+472,I am very unimpressed with the price. It is not worth the price.,price
+473,I am extremely unhappy with the price. It was a waste of money.,price
+474,The shipping is of poor quality. I would not recommend it.,shipping
+475,The price is an excellent value for the price. I would buy it again.,price
+476,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+477,I am extremely happy with the product. It has been a great investment.,product
+478,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+479,I am very unimpressed with the customer service. It is not worth the price.,customer service
+480,I had a terrible experience with the price. The price did not work as advertised.,price
+481,I am impressed with the customer service. It has exceeded my expectations.,customer service
+482,The product is of very high quality. I would definitely recommend it.,product
+483,I am very disappointed with the product. The product did not meet my expectations.,product
+484,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+485,I would give the product one star. It was a terrible product.,product
+486,The customer service is very easy to use and has made my life much easier.,customer service
+487,I am extremely unhappy with the product. It was a waste of money.,product
+488,I am extremely happy with the shipping. It has been a great investment.,shipping
+489,I would give the product five stars. It has been a pleasure to use.,product
+490,I would give the product one star. It was a terrible product.,product
+491,I am impressed with the price. It has exceeded my expectations.,price
+492,I am very unimpressed with the customer service. It is not worth the price.,customer service
+493,The product is very easy to use and has made my life much easier.,product
+494,The price is an excellent value for the price. I would buy it again.,price
+495,The price is an excellent value for the price. I would buy it again.,price
+496,The price is an excellent value for the price. I would buy it again.,price
+497,I am very unimpressed with the price. It is not worth the price.,price
+498,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+499,The price is very easy to use and has made my life much easier.,price
+500,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+501,The product is not what I was looking for. I am very disappointed with my purchase.,product
+502,I had a terrible experience with the price. The price did not work as advertised.,price
+503,I would give the shipping one star. It was a terrible product.,shipping
+504,The product is overpriced for the quality. I would not buy it again.,product
+505,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+506,I am very disappointed with the customer service. The customer service did not meet my expectations.,customer service
+507,The shipping is of poor quality. I would not recommend it.,shipping
+508,The price is of poor quality. I would not recommend it.,price
+509,I am very disappointed with the customer service. The customer service did not meet my expectations.,customer service
+510,I would give the price one star. It was a terrible product.,price
+511,The customer service is overpriced for the quality. I would not buy it again.,customer service
+512,The product is not what I was looking for. I am very disappointed with my purchase.,product
+513,The product has exceeded my expectations. I would recommend it to anyone.,product
+514,The shipping is not what I was looking for. I am very disappointed with my purchase.,shipping
+515,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+516,The price has exceeded my expectations. I would recommend it to anyone.,price
+517,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+518,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+519,I am extremely unhappy with the product. It was a waste of money.,product
+520,I am extremely happy with the customer service. It has been a great investment.,customer service
+521,The product is overpriced for the quality. I would not buy it again.,product
+522,I am very impressed with the shipping. It is a great product at a great price.,shipping
+523,The price is of very high quality. I would definitely recommend it.,price
+524,I am very unimpressed with the price. It is not worth the price.,price
+525,I would give the shipping one star. It was a terrible product.,shipping
+526,The product did not live up to my expectations. I would not recommend it to anyone.,product
+527,The customer service is very difficult to use and has caused me a lot of frustration.,customer service
+528,The product is an excellent value for the price. I would buy it again.,product
+529,I would give the product five stars. It has been a pleasure to use.,product
+530,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+531,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+532,I am extremely happy with the product. It has been a great investment.,product
+533,I would give the product one star. It was a terrible product.,product
+534,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+535,The product is of poor quality. I would not recommend it.,product
+536,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+537,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+538,The shipping is very easy to use and has made my life much easier.,shipping
+539,I am very unimpressed with the customer service. It is not worth the price.,customer service
+540,The price is of very high quality. I would definitely recommend it.,price
+541,I had a terrible experience with the price. The price did not work as advertised.,price
+542,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+543,I would give the customer service one star. It was a terrible product.,customer service
+544,The product is of poor quality. I would not recommend it.,product
+545,I am impressed with the shipping. It has exceeded my expectations.,shipping
+546,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+547,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+548,The customer service is overpriced for the quality. I would not buy it again.,customer service
+549,I am extremely unhappy with the customer service. It was a waste of money.,customer service
+550,I would give the product one star. It was a terrible product.,product
+551,I am very unimpressed with the shipping. It is not worth the price.,shipping
+552,The product is very difficult to use and has caused me a lot of frustration.,product
+553,I am impressed with the customer service. It has exceeded my expectations.,customer service
+554,I would give the customer service one star. It was a terrible product.,customer service
+555,I am impressed with the product. It has exceeded my expectations.,product
+556,I had a terrible experience with the product. The product did not work as advertised.,product
+557,I am very satisfied with the price. The price is exactly what I was looking for.,price
+558,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+559,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+560,The shipping is very easy to use and has made my life much easier.,shipping
+561,The product is of poor quality. I would not recommend it.,product
+562,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+563,I am extremely unhappy with the customer service. It was a waste of money.,customer service
+564,I am very impressed with the product. It is a great product at a great price.,product
+565,I am extremely happy with the shipping. It has been a great investment.,shipping
+566,The price is an excellent value for the price. I would buy it again.,price
+567,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+568,The price is overpriced for the quality. I would not buy it again.,price
+569,The customer service is very difficult to use and has caused me a lot of frustration.,customer service
+570,The shipping is of very high quality. I would definitely recommend it.,shipping
+571,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+572,The product did not live up to my expectations. I would not recommend it to anyone.,product
+573,The price is of poor quality. I would not recommend it.,price
+574,The price is not what I was looking for. I am very disappointed with my purchase.,price
+575,The shipping is of poor quality. I would not recommend it.,shipping
+576,The product is very easy to use and has made my life much easier.,product
+577,I am very satisfied with the price. The price is exactly what I was looking for.,price
+578,The price is of very high quality. I would definitely recommend it.,price
+579,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+580,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+581,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+582,The shipping is an excellent value for the price. I would buy it again.,shipping
+583,I am impressed with the product. It has exceeded my expectations.,product
+584,The customer service is very easy to use and has made my life much easier.,customer service
+585,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+586,I am very disappointed with the price. The price did not meet my expectations.,price
+587,I am very satisfied with the product. The product is exactly what I was looking for.,product
+588,The shipping is of poor quality. I would not recommend it.,shipping
+589,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+590,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+591,I am extremely unhappy with the product. It was a waste of money.,product
+592,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+593,I had a terrible experience with the price. The price did not work as advertised.,price
+594,The price is not what I was looking for. I am very disappointed with my purchase.,price
+595,I am very impressed with the price. It is a great product at a great price.,price
+596,I would give the customer service five stars. It has been a pleasure to use.,customer service
+597,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+598,I am extremely happy with the customer service. It has been a great investment.,customer service
+599,The shipping is not what I was looking for. I am very disappointed with my purchase.,shipping
+600,The product is of very high quality. I would definitely recommend it.,product
+601,I am extremely happy with the product. It has been a great investment.,product
+602,The product is an excellent value for the price. I would buy it again.,product
+603,I am impressed with the customer service. It has exceeded my expectations.,customer service
+604,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+605,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+606,The product is very easy to use and has made my life much easier.,product
+607,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+608,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+609,The customer service is of poor quality. I would not recommend it.,customer service
+610,The shipping is of poor quality. I would not recommend it.,shipping
+611,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+612,The shipping is an excellent value for the price. I would buy it again.,shipping
+613,The price is not what I was looking for. I am very disappointed with my purchase.,price
+614,I am very satisfied with the shipping. The shipping is exactly what I was looking for.,shipping
+615,I am extremely unhappy with the price. It was a waste of money.,price
+616,I am very disappointed with the product. The product did not meet my expectations.,product
+617,I am very impressed with the customer service. It is a great product at a great price.,customer service
+618,I am impressed with the product. It has exceeded my expectations.,product
+619,I am extremely happy with the customer service. It has been a great investment.,customer service
+620,The customer service is very difficult to use and has caused me a lot of frustration.,customer service
+621,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+622,I am extremely unhappy with the customer service. It was a waste of money.,customer service
+623,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+624,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+625,I am very unimpressed with the customer service. It is not worth the price.,customer service
+626,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+627,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+628,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+629,I am extremely happy with the shipping. It has been a great investment.,shipping
+630,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+631,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+632,The price is an excellent value for the price. I would buy it again.,price
+633,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+634,The product is of poor quality. I would not recommend it.,product
+635,I would give the product five stars. It has been a pleasure to use.,product
+636,The shipping is of very high quality. I would definitely recommend it.,shipping
+637,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+638,The customer service is very easy to use and has made my life much easier.,customer service
+639,I am extremely unhappy with the price. It was a waste of money.,price
+640,I am very unimpressed with the shipping. It is not worth the price.,shipping
+641,The product is of very high quality. I would definitely recommend it.,product
+642,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+643,I would give the shipping five stars. It has been a pleasure to use.,shipping
+644,I am very unimpressed with the shipping. It is not worth the price.,shipping
+645,The customer service is very difficult to use and has caused me a lot of frustration.,customer service
+646,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+647,I am very disappointed with the product. The product did not meet my expectations.,product
+648,The price did not live up to my expectations. I would not recommend it to anyone.,price
+649,The customer service is of poor quality. I would not recommend it.,customer service
+650,I would give the price one star. It was a terrible product.,price
+651,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+652,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+653,I am impressed with the price. It has exceeded my expectations.,price
+654,The shipping is an excellent value for the price. I would buy it again.,shipping
+655,I am extremely unhappy with the price. It was a waste of money.,price
+656,I am very disappointed with the product. The product did not meet my expectations.,product
+657,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+658,The customer service is of poor quality. I would not recommend it.,customer service
+659,The product has exceeded my expectations. I would recommend it to anyone.,product
+660,The product has exceeded my expectations. I would recommend it to anyone.,product
+661,The price has exceeded my expectations. I would recommend it to anyone.,price
+662,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+663,The price did not live up to my expectations. I would not recommend it to anyone.,price
+664,The price is an excellent value for the price. I would buy it again.,price
+665,I am very satisfied with the price. The price is exactly what I was looking for.,price
+666,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+667,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+668,I would give the shipping one star. It was a terrible product.,shipping
+669,I am very unimpressed with the product. It is not worth the price.,product
+670,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+671,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+672,The product did not live up to my expectations. I would not recommend it to anyone.,product
+673,I am extremely happy with the price. It has been a great investment.,price
+674,I would give the shipping one star. It was a terrible product.,shipping
+675,I would give the product one star. It was a terrible product.,product
+676,I am extremely happy with the product. It has been a great investment.,product
+677,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+678,The product is overpriced for the quality. I would not buy it again.,product
+679,The price is overpriced for the quality. I would not buy it again.,price
+680,The product is of poor quality. I would not recommend it.,product
+681,I am very unimpressed with the product. It is not worth the price.,product
+682,I am very satisfied with the product. The product is exactly what I was looking for.,product
+683,I am extremely happy with the customer service. It has been a great investment.,customer service
+684,I am very disappointed with the customer service. The customer service did not meet my expectations.,customer service
+685,I would give the customer service five stars. It has been a pleasure to use.,customer service
+686,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+687,I am extremely unhappy with the price. It was a waste of money.,price
+688,I am very unimpressed with the product. It is not worth the price.,product
+689,I am very disappointed with the price. The price did not meet my expectations.,price
+690,I am very disappointed with the product. The product did not meet my expectations.,product
+691,I would give the product five stars. It has been a pleasure to use.,product
+692,I am extremely unhappy with the price. It was a waste of money.,price
+693,I would give the shipping one star. It was a terrible product.,shipping
+694,I would give the price five stars. It has been a pleasure to use.,price
+695,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+696,I am very satisfied with the shipping. The shipping is exactly what I was looking for.,shipping
+697,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+698,I would give the product five stars. It has been a pleasure to use.,product
+699,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+700,I am very impressed with the product. It is a great product at a great price.,product
+701,The shipping is of poor quality. I would not recommend it.,shipping
+702,I am very unimpressed with the customer service. It is not worth the price.,customer service
+703,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+704,The price is very easy to use and has made my life much easier.,price
+705,I am extremely unhappy with the customer service. It was a waste of money.,customer service
+706,The price is very difficult to use and has caused me a lot of frustration.,price
+707,The customer service is of poor quality. I would not recommend it.,customer service
+708,I am extremely happy with the price. It has been a great investment.,price
+709,I would give the price five stars. It has been a pleasure to use.,price
+710,I am very satisfied with the price. The price is exactly what I was looking for.,price
+711,The product is of very high quality. I would definitely recommend it.,product
+712,The customer service is an excellent value for the price. I would buy it again.,customer service
+713,I am very satisfied with the price. The price is exactly what I was looking for.,price
+714,I am very satisfied with the product. The product is exactly what I was looking for.,product
+715,I am very impressed with the price. It is a great product at a great price.,price
+716,I had a terrible experience with the product. The product did not work as advertised.,product
+717,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+718,I would give the product one star. It was a terrible product.,product
+719,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+720,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+721,I am extremely happy with the product. It has been a great investment.,product
+722,The shipping is overpriced for the quality. I would not buy it again.,shipping
+723,I am extremely happy with the customer service. It has been a great investment.,customer service
+724,The product is of very high quality. I would definitely recommend it.,product
+725,The shipping is an excellent value for the price. I would buy it again.,shipping
+726,The product has exceeded my expectations. I would recommend it to anyone.,product
+727,I am very disappointed with the customer service. The customer service did not meet my expectations.,customer service
+728,The price is very difficult to use and has caused me a lot of frustration.,price
+729,The customer service is of very high quality. I would definitely recommend it.,customer service
+730,I am impressed with the price. It has exceeded my expectations.,price
+731,I am very unimpressed with the customer service. It is not worth the price.,customer service
+732,I am very impressed with the shipping. It is a great product at a great price.,shipping
+733,I am impressed with the product. It has exceeded my expectations.,product
+734,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+735,I am extremely happy with the price. It has been a great investment.,price
+736,The product is an excellent value for the price. I would buy it again.,product
+737,I am extremely happy with the product. It has been a great investment.,product
+738,The shipping is very easy to use and has made my life much easier.,shipping
+739,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+740,I am impressed with the price. It has exceeded my expectations.,price
+741,The product is not what I was looking for. I am very disappointed with my purchase.,product
+742,The price is overpriced for the quality. I would not buy it again.,price
+743,The price is very easy to use and has made my life much easier.,price
+744,I am extremely unhappy with the price. It was a waste of money.,price
+745,I am very disappointed with the product. The product did not meet my expectations.,product
+746,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+747,The price did not live up to my expectations. I would not recommend it to anyone.,price
+748,The customer service is overpriced for the quality. I would not buy it again.,customer service
+749,I am impressed with the customer service. It has exceeded my expectations.,customer service
+750,The price is overpriced for the quality. I would not buy it again.,price
+751,I would give the shipping one star. It was a terrible product.,shipping
+752,The price is very easy to use and has made my life much easier.,price
+753,I am very unimpressed with the customer service. It is not worth the price.,customer service
+754,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+755,The price is an excellent value for the price. I would buy it again.,price
+756,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+757,The product did not live up to my expectations. I would not recommend it to anyone.,product
+758,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+759,I am extremely unhappy with the customer service. It was a waste of money.,customer service
+760,I am very impressed with the price. It is a great product at a great price.,price
+761,The customer service is very easy to use and has made my life much easier.,customer service
+762,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+763,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+764,I am very unimpressed with the shipping. It is not worth the price.,shipping
+765,The product is an excellent value for the price. I would buy it again.,product
+766,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+767,The price is not what I was looking for. I am very disappointed with my purchase.,price
+768,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+769,The shipping is not what I was looking for. I am very disappointed with my purchase.,shipping
+770,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+771,I am impressed with the price. It has exceeded my expectations.,price
+772,The product is of very high quality. I would definitely recommend it.,product
+773,I am impressed with the shipping. It has exceeded my expectations.,shipping
+774,I am very satisfied with the product. The product is exactly what I was looking for.,product
+775,The shipping is of very high quality. I would definitely recommend it.,shipping
+776,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+777,The price did not live up to my expectations. I would not recommend it to anyone.,price
+778,I am extremely unhappy with the product. It was a waste of money.,product
+779,I would give the customer service one star. It was a terrible product.,customer service
+780,I would give the shipping five stars. It has been a pleasure to use.,shipping
+781,The product is not what I was looking for. I am very disappointed with my purchase.,product
+782,I am extremely happy with the price. It has been a great investment.,price
+783,The price is very easy to use and has made my life much easier.,price
+784,I had a terrible experience with the product. The product did not work as advertised.,product
+785,The product is overpriced for the quality. I would not buy it again.,product
+786,The price is an excellent value for the price. I would buy it again.,price
+787,I am very satisfied with the shipping. The shipping is exactly what I was looking for.,shipping
+788,I am extremely unhappy with the product. It was a waste of money.,product
+789,I am extremely happy with the price. It has been a great investment.,price
+790,I am very satisfied with the product. The product is exactly what I was looking for.,product
+791,I am impressed with the customer service. It has exceeded my expectations.,customer service
+792,The product is very easy to use and has made my life much easier.,product
+793,I would give the product five stars. It has been a pleasure to use.,product
+794,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+795,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+796,I would give the shipping one star. It was a terrible product.,shipping
+797,I would give the customer service five stars. It has been a pleasure to use.,customer service
+798,The customer service is very easy to use and has made my life much easier.,customer service
+799,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+800,I would give the product five stars. It has been a pleasure to use.,product
+801,The product is very easy to use and has made my life much easier.,product
+802,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+803,The customer service is of poor quality. I would not recommend it.,customer service
+804,I am extremely unhappy with the price. It was a waste of money.,price
+805,The product is very difficult to use and has caused me a lot of frustration.,product
+806,The price is very easy to use and has made my life much easier.,price
+807,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+808,The price is an excellent value for the price. I would buy it again.,price
+809,The product is very easy to use and has made my life much easier.,product
+810,The price is overpriced for the quality. I would not buy it again.,price
+811,I had a terrible experience with the product. The product did not work as advertised.,product
+812,I am very satisfied with the price. The price is exactly what I was looking for.,price
+813,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+814,The customer service is an excellent value for the price. I would buy it again.,customer service
+815,The price is not what I was looking for. I am very disappointed with my purchase.,price
+816,The price did not live up to my expectations. I would not recommend it to anyone.,price
+817,I would give the product one star. It was a terrible product.,product
+818,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+819,I am extremely happy with the product. It has been a great investment.,product
+820,I am very impressed with the product. It is a great product at a great price.,product
+821,I am very impressed with the price. It is a great product at a great price.,price
+822,The price is overpriced for the quality. I would not buy it again.,price
+823,The price is not what I was looking for. I am very disappointed with my purchase.,price
+824,I am very satisfied with the shipping. The shipping is exactly what I was looking for.,shipping
+825,I am very satisfied with the price. The price is exactly what I was looking for.,price
+826,I am very impressed with the customer service. It is a great product at a great price.,customer service
+827,I would give the customer service one star. It was a terrible product.,customer service
+828,The product is of very high quality. I would definitely recommend it.,product
+829,The customer service is very easy to use and has made my life much easier.,customer service
+830,The product is overpriced for the quality. I would not buy it again.,product
+831,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+832,I had a terrible experience with the price. The price did not work as advertised.,price
+833,The product is very easy to use and has made my life much easier.,product
+834,The price is overpriced for the quality. I would not buy it again.,price
+835,The price is an excellent value for the price. I would buy it again.,price
+836,I am extremely happy with the customer service. It has been a great investment.,customer service
+837,The price did not live up to my expectations. I would not recommend it to anyone.,price
+838,I am very impressed with the product. It is a great product at a great price.,product
+839,I am very satisfied with the price. The price is exactly what I was looking for.,price
+840,The shipping is very easy to use and has made my life much easier.,shipping
+841,I am extremely happy with the price. It has been a great investment.,price
+842,I would give the product five stars. It has been a pleasure to use.,product
+843,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+844,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+845,I am very disappointed with the shipping. The shipping did not meet my expectations.,shipping
+846,I am very impressed with the customer service. It is a great product at a great price.,customer service
+847,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+848,The price is not what I was looking for. I am very disappointed with my purchase.,price
+849,I am very impressed with the shipping. It is a great product at a great price.,shipping
+850,I am extremely happy with the price. It has been a great investment.,price
+851,I would give the price five stars. It has been a pleasure to use.,price
+852,I am very disappointed with the price. The price did not meet my expectations.,price
+853,The customer service is an excellent value for the price. I would buy it again.,customer service
+854,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+855,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+856,I would give the product five stars. It has been a pleasure to use.,product
+857,The price is everything I wanted and more. I am very satisfied with my purchase.,price
+858,I am very disappointed with the price. The price did not meet my expectations.,price
+859,I am impressed with the customer service. It has exceeded my expectations.,customer service
+860,I am very impressed with the shipping. It is a great product at a great price.,shipping
+861,I am impressed with the shipping. It has exceeded my expectations.,shipping
+862,I am impressed with the shipping. It has exceeded my expectations.,shipping
+863,The price is very easy to use and has made my life much easier.,price
+864,I would give the shipping one star. It was a terrible product.,shipping
+865,I am impressed with the product. It has exceeded my expectations.,product
+866,The price is of very high quality. I would definitely recommend it.,price
+867,I would give the customer service one star. It was a terrible product.,customer service
+868,The shipping is very difficult to use and has caused me a lot of frustration.,shipping
+869,I am impressed with the product. It has exceeded my expectations.,product
+870,I would give the price one star. It was a terrible product.,price
+871,I am very unimpressed with the customer service. It is not worth the price.,customer service
+872,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+873,I am impressed with the product. It has exceeded my expectations.,product
+874,The customer service is overpriced for the quality. I would not buy it again.,customer service
+875,The customer service is of very high quality. I would definitely recommend it.,customer service
+876,I would give the shipping five stars. It has been a pleasure to use.,shipping
+877,I am very satisfied with the product. The product is exactly what I was looking for.,product
+878,I am very impressed with the customer service. It is a great product at a great price.,customer service
+879,The shipping is an excellent value for the price. I would buy it again.,shipping
+880,I am very satisfied with the customer service. The customer service is exactly what I was looking for.,customer service
+881,The shipping is everything I wanted and more. I am very satisfied with my purchase.,shipping
+882,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+883,I am very impressed with the product. It is a great product at a great price.,product
+884,The price has exceeded my expectations. I would recommend it to anyone.,price
+885,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+886,The product is very difficult to use and has caused me a lot of frustration.,product
+887,The price is everything I wanted and more. I am very satisfied with my purchase.,price
+888,I am impressed with the product. It has exceeded my expectations.,product
+889,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+890,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+891,The shipping is very easy to use and has made my life much easier.,shipping
+892,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+893,The customer service is very difficult to use and has caused me a lot of frustration.,customer service
+894,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+895,I am very satisfied with the product. The product is exactly what I was looking for.,product
+896,I am extremely unhappy with the shipping. It was a waste of money.,shipping
+897,I am very impressed with the product. It is a great product at a great price.,product
+898,The price is very easy to use and has made my life much easier.,price
+899,I would give the price one star. It was a terrible product.,price
+900,The product is very difficult to use and has caused me a lot of frustration.,product
+901,The product is very difficult to use and has caused me a lot of frustration.,product
+902,The price is of very high quality. I would definitely recommend it.,price
+903,The product is very difficult to use and has caused me a lot of frustration.,product
+904,I am very disappointed with the product. The product did not meet my expectations.,product
+905,I would give the shipping one star. It was a terrible product.,shipping
+906,I am very impressed with the product. It is a great product at a great price.,product
+907,The customer service is an excellent value for the price. I would buy it again.,customer service
+908,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+909,The customer service is of very high quality. I would definitely recommend it.,customer service
+910,I am impressed with the price. It has exceeded my expectations.,price
+911,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+912,The shipping is not what I was looking for. I am very disappointed with my purchase.,shipping
+913,I am extremely happy with the customer service. It has been a great investment.,customer service
+914,I am very unimpressed with the shipping. It is not worth the price.,shipping
+915,I am impressed with the shipping. It has exceeded my expectations.,shipping
+916,The product is very easy to use and has made my life much easier.,product
+917,The product is of very high quality. I would definitely recommend it.,product
+918,The price is not what I was looking for. I am very disappointed with my purchase.,price
+919,The customer service is of very high quality. I would definitely recommend it.,customer service
+920,The customer service is everything I wanted and more. I am very satisfied with my purchase.,customer service
+921,The product did not live up to my expectations. I would not recommend it to anyone.,product
+922,The product is overpriced for the quality. I would not buy it again.,product
+923,I am extremely happy with the customer service. It has been a great investment.,customer service
+924,The price is very easy to use and has made my life much easier.,price
+925,I am very unimpressed with the shipping. It is not worth the price.,shipping
+926,I am extremely happy with the product. It has been a great investment.,product
+927,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+928,I would give the price five stars. It has been a pleasure to use.,price
+929,The customer service is overpriced for the quality. I would not buy it again.,customer service
+930,The price is an excellent value for the price. I would buy it again.,price
+931,The product is an excellent value for the price. I would buy it again.,product
+932,The shipping is of poor quality. I would not recommend it.,shipping
+933,The price is of poor quality. I would not recommend it.,price
+934,I am extremely happy with the shipping. It has been a great investment.,shipping
+935,I am extremely unhappy with the price. It was a waste of money.,price
+936,The shipping did not live up to my expectations. I would not recommend it to anyone.,shipping
+937,I had a terrible experience with the product. The product did not work as advertised.,product
+938,I am very unimpressed with the product. It is not worth the price.,product
+939,I am extremely unhappy with the customer service. It was a waste of money.,customer service
+940,I am very impressed with the shipping. It is a great product at a great price.,shipping
+941,The price is of very high quality. I would definitely recommend it.,price
+942,The product is of poor quality. I would not recommend it.,product
+943,The product is everything I wanted and more. I am very satisfied with my purchase.,product
+944,I am very unimpressed with the price. It is not worth the price.,price
+945,The price is overpriced for the quality. I would not buy it again.,price
+946,The product is of poor quality. I would not recommend it.,product
+947,The price is overpriced for the quality. I would not buy it again.,price
+948,The price is very easy to use and has made my life much easier.,price
+949,I am very unimpressed with the product. It is not worth the price.,product
+950,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+951,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+952,I am very impressed with the price. It is a great product at a great price.,price
+953,I am very impressed with the price. It is a great product at a great price.,price
+954,I am very satisfied with the price. The price is exactly what I was looking for.,price
+955,I had a terrible experience with the price. The price did not work as advertised.,price
+956,The customer service is overpriced for the quality. I would not buy it again.,customer service
+957,I would give the shipping one star. It was a terrible product.,shipping
+958,I had a terrible experience with the customer service. The customer service did not work as advertised.,customer service
+959,I am impressed with the customer service. It has exceeded my expectations.,customer service
+960,The shipping has exceeded my expectations. I would recommend it to anyone.,shipping
+961,The price did not live up to my expectations. I would not recommend it to anyone.,price
+962,The shipping is overpriced for the quality. I would not buy it again.,shipping
+963,I would give the price one star. It was a terrible product.,price
+964,I am very impressed with the product. It is a great product at a great price.,product
+965,I had a terrible experience with the shipping. The shipping did not work as advertised.,shipping
+966,The shipping is of very high quality. I would definitely recommend it.,shipping
+967,I would give the price one star. It was a terrible product.,price
+968,I had a terrible experience with the price. The price did not work as advertised.,price
+969,I would give the price five stars. It has been a pleasure to use.,price
+970,The shipping is of very high quality. I would definitely recommend it.,shipping
+971,The price did not live up to my expectations. I would not recommend it to anyone.,price
+972,The price is very difficult to use and has caused me a lot of frustration.,price
+973,I am very unimpressed with the price. It is not worth the price.,price
+974,I am very unimpressed with the shipping. It is not worth the price.,shipping
+975,The price is not what I was looking for. I am very disappointed with my purchase.,price
+976,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+977,The shipping is very easy to use and has made my life much easier.,shipping
+978,I would give the customer service one star. It was a terrible product.,customer service
+979,The product is an excellent value for the price. I would buy it again.,product
+980,The product is an excellent value for the price. I would buy it again.,product
+981,The price is very difficult to use and has caused me a lot of frustration.,price
+982,I am impressed with the product. It has exceeded my expectations.,product
+983,I am very unimpressed with the customer service. It is not worth the price.,customer service
+984,The product is very difficult to use and has caused me a lot of frustration.,product
+985,The product is very easy to use and has made my life much easier.,product
+986,The price is everything I wanted and more. I am very satisfied with my purchase.,price
+987,The customer service has exceeded my expectations. I would recommend it to anyone.,customer service
+988,The price has exceeded my expectations. I would recommend it to anyone.,price
+989,The product is very easy to use and has made my life much easier.,product
+990,The price is of very high quality. I would definitely recommend it.,price
+991,I am very impressed with the product. It is a great product at a great price.,product
+992,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+993,The price is very easy to use and has made my life much easier.,price
+994,I would give the price five stars. It has been a pleasure to use.,price
+995,The customer service is not what I was looking for. I am very disappointed with my purchase.,customer service
+996,The customer service is an excellent value for the price. I would buy it again.,customer service
+997,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+998,The customer service did not live up to my expectations. I would not recommend it to anyone.,customer service
+999,I would give the product five stars. It has been a pleasure to use.,product
+1000,I am very unimpressed with the price. It is not worth the price.,price
